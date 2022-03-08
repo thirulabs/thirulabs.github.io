@@ -2,7 +2,7 @@
 Source code repository for ThiruLabs
 
 ## Projects
-* [chat-app](https://github.com/thirulabs/chat-app) - A sample application for comparing performance of communication frameworks
+* [chat-app](https://github.com/thirulabs/chat-app) - a sample application for comparing performance of communication frameworks
 
 ## License
 ```plaintext
