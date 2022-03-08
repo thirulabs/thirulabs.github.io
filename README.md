@@ -1,6 +1,9 @@
 ## ThiruLabs
 Source code repository for ThiruLabs
 
+## Projects
+* [chat-app](https://github.com/thirulabs/chat-app)
+
 ## License
 ```plaintext
 Copyright 2022 ThiruLabs
