@@ -1,9 +1,5 @@
 ## ThiruLabs
-
-About
------------
-Source code repository for open source projects developed at ThiruLabs
-
+Source code repository for ThiruLabs
 
 ## License
 ```plaintext
